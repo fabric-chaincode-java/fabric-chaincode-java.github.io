@@ -1,4 +1,2 @@
 org.hyperledger.fabric.shim
-org.hyperledger.fabric.shim.ext.sbe
-org.hyperledger.fabric.shim.ext.sbe.impl
 org.hyperledger.fabric.shim.ledger
