@@ -1,3 +1,9 @@
+org.hyperledger.fabric.contract
+org.hyperledger.fabric.contract.annotation
+org.hyperledger.fabric.contract.execution
+org.hyperledger.fabric.contract.execution.impl
+org.hyperledger.fabric.contract.routing
+org.hyperledger.fabric.contract.routing.impl
 org.hyperledger.fabric.shim
 org.hyperledger.fabric.shim.ext.sbe
 org.hyperledger.fabric.shim.ext.sbe.impl
